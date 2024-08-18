@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{1FD9BAFC-0AAA-435C-B1BA-5EC62019A4EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Regex", "code\4.Regex\4.Regex.csproj", "{4A19070E-9BD1-4A21-B044-354E3F7CF187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A19070E-9BD1-4A21-B044-354E3F7CF187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A19070E-9BD1-4A21-B044-354E3F7CF187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A19070E-9BD1-4A21-B044-354E3F7CF187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A19070E-9BD1-4A21-B044-354E3F7CF187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A19070E-9BD1-4A21-B044-354E3F7CF187} = {1FD9BAFC-0AAA-435C-B1BA-5EC62019A4EA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B15EC873-EA9E-441F-93E0-028252D58529}
+	EndGlobalSection
+EndGlobal
